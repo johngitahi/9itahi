@@ -6,4 +6,4 @@ I am a passionate software engineer who is dedicated to creating innovative solu
 - 👯 I’m looking to collaborate on healthtech and edtech
 - 📫 How to reach me: [E-mail](mailto:gitahi109@gmail.com)
 
-[![John's github stats](https://github-readme-stats.vercel.app/api?username=9itahi)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![John's github stats](https://github-readme-stats.vercel.app/api?username=9itahi)](https://github.com/anuraghazra/github-readme-stats) --->
