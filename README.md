@@ -4,4 +4,4 @@ I am a passionate software engineer who is dedicated to creating innovative solu
 
 - 🔭 I’m currently learning Django, React, FastAPI and Cloud Computing 
 - 👯 I’m looking to collaborate on healthtech and edtech
-- 📫 How to reach me: [mailto:gitahi109@gmail](E-mail)
+- 📫 How to reach me: (E-mail)[mailto:gitahi109@gmail]
