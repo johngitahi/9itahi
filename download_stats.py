@@ -31,7 +31,7 @@ def download_general_stats():
         pathlib.Path('general_stats.svg'),
         'https://github-readme-stats.vercel.app/api',
         params={
-            'username': 'ofek',
+            'username': '9itahi',
             'theme': 'dark',
             'show_icons': 'true',
             'count_private': 'true',
@@ -45,7 +45,7 @@ def download_language_stats():
         pathlib.Path('language_stats.svg'),
         'https://github-readme-stats.vercel.app/api/top-langs',
         params={
-            'username': 'ofek',
+            'username': '9itahi',
             'theme': 'dark',
             'show_icons': 'true',
             'count_private': 'true',
